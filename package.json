@@ -3,7 +3,21 @@
   "version": "1.0.0",
   "description": "Lib for design tokens by TransDev",
   "main": "index.js",
-  "author": "Diana Martine",
+  "author": {
+    "email": "diana_martine@outlook.com",
+    "name": "Diana Martine",
+    "url": "https://github.com/dianamartine"
+  },
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "maintainers": [
+    {
+      "email": "diana_martine@outlook.com",
+      "name": "Diana Martine",
+      "url": "https://github.com/dianamartine"
+    }
+  ],
   "license": "MIT",
   "keywords": [
     "design",
@@ -20,8 +34,7 @@
   "scripts": {
     "build": "node src/index.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "style-dictionary": "^3.7.0"
-  },
-  "devDependencies": {}
+  }
 }
