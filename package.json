@@ -8,9 +8,6 @@
     "name": "Diana Martine",
     "url": "https://github.com/dianamartine"
   },
-  "engines": {
-    "vscode": "^1.64.0"
-  },
   "maintainers": [
     {
       "email": "diana_martine@outlook.com",
