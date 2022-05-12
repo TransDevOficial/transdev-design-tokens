@@ -39,6 +39,6 @@
     "style-dictionary": "^3.7.0"
   },
   "publishConfig": {
-    "@transdevoficial:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
